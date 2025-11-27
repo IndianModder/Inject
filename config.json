@@ -1,7 +1,7 @@
 {
   "servers": [
     {
-      "name": "Server 1",
+      "name": "Server",
       "download_url": "https://example.com/files1.aes",
       "aes_key": "32_characters_long_key_123456789012",
       "aes_iv": "16_characters_iv"
