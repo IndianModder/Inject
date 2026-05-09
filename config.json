@@ -20,12 +20,12 @@
         },
         {
             "name": "Server 2",
-            "download_url": "https://github.com/IndianModder/Inject/raw/refs/heads/main/data_backup.zip",
-            "vaibhav_key": ""
+            "download_url": "https://github.com/zxvaibhav/Data/raw/refs/heads/main/crunchyroid.zip",
+            "vaibhav_key": "OPTIONAL_KEY_2"
         },
         {
             "name": "Server 3",
-            "download_url": "YOUR_URL_3",
+            "download_url": "https://example.com/file3.zip",
             "vaibhav_key": ""
         }
     ]
