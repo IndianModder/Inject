@@ -1,22 +1,32 @@
 {
-  "servers": [
-    {
-      "name": "Server",
-      "download_url": "https://example.com/files1.aes",
-      "aes_key": "32_characters_long_key_123456789012",
-      "aes_iv": "16_characters_iv"
-    },
-    {
-      "name": "Server 2", 
-      "download_url": "https://github.com/zxvaibhav/Inject/raw/refs/heads/main/https://github.com/zxvaibhav/Inject/raw/refs/heads/main/vaibhav.zip",
-      "aes_key": "32_characters_long_key_123456789012",
-      "aes_iv": "16_characters_iv"
-    },
-    {
-      "name": "Server 3", 
-      "download_url": "https://github.com/zxvaibhav/Inject/raw/refs/heads/main/https://github.com/zxvaibhav/Inject/raw/refs/heads/main/vaibhav.zip",
-      "aes_key": "32_characters_long_key_123456789012",
-      "aes_iv": "16_characters_iv"
-    }
-  ]
+    "DIALOG_TITLE": "Extract Data",
+    "DIALOG_MESSAGE": "Select server to extract data:",
+    "BUTTON_TEXT": "Extract",
+    "CANCEL_BUTTON_TEXT": "Cancel",
+    "LOADING_TEXT": "Extracting...",
+    "RESTART_MESSAGE": "Data extracted successfully!\nRestarting app...",
+    "FAILED_MESSAGE": "Failed: ",
+    "WELCOME_MESSAGE": "Welcome ❤️",
+    "REDIRECT_LINK": "https://t.me/OpModsForYou",
+    "VERIFY_SIGNATURE": true,
+    "ALLOWED_SIGNATURES": [
+"261a385af300c0c48ef78ccac9412854a25121a7fc4739bc242669ef5f77f73e"
+    ],
+    "com.crunchyroll.crunchyroid": [
+{
+            "name": "Server 1 - Premium",
+            "download_url": "https://github.com/IndianModder/Inject/raw/refs/heads/main/data_backup.zip",
+            "vaibhav_key": ""
+        },
+        {
+            "name": "Server 2",
+            "download_url": "https://github.com/IndianModder/Inject/raw/refs/heads/main/data_backup.zip",
+            "vaibhav_key": ""
+        },
+        {
+            "name": "Server 3",
+            "download_url": "YOUR_URL_3",
+            "vaibhav_key": ""
+        }
+    ]
 }
