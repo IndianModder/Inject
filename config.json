@@ -17,6 +17,16 @@
             "name": "Server 1 - Premium",
             "download_url": "https://github.com/IndianModder/Inject/raw/refs/heads/main/data_backup.zip",
             "vaibhav_key": ""
+        },
+        {
+            "name": "Server 2",
+            "download_url": "https://github.com/IndianModder/Inject/raw/refs/heads/main/data_backup.zip",
+            "vaibhav_key": ""
+        },
+        {
+            "name": "Server 3",
+            "download_url": "YOUR_URL_3",
+            "vaibhav_key": ""
         }
     ]
 }
