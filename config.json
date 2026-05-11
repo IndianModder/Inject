@@ -10,22 +10,22 @@
     "REDIRECT_LINK": "https://t.me/OpModsForYou",
     "VERIFY_SIGNATURE": true,
     "ALLOWED_SIGNATURES": [
-"261a385af300c0c48ef78ccac9412854a25121a7fc4739bc242669ef5f77f73e"
+        "261a385af300c0c48ef78ccac9412854a25121a7fc4739bc242669ef5f77f73e"
     ],
     "com.crunchyroll.crunchyroid": [
-{
-            "name": "Server 12",
+        {
+            "name": "Server 1 - Premium",
+            "download_url": "https://github.com/IndianModder/Inject/raw/refs/heads/main/vaibhav.encrypt",
+            "vaibhav_key": "1234"
+        },
+        {
+            "name": "Server 2 - Normal",
             "download_url": "https://github.com/IndianModder/Inject/raw/refs/heads/main/data_backup.zip",
             "vaibhav_key": ""
         },
         {
-            "name": "Server 2",
-            "download_url": "https://github.com/zxvaibhav/Data/raw/refs/heads/main/crunchyroid.zip",
-            "vaibhav_key": "OPTIONAL_KEY_2"
-        },
-        {
-            "name": "Server 3",
-            "download_url": "https://example.com/file3.zip",
+            "name": "Server 3 - Alternative",
+            "download_url": "https://github.com/IndianModder/Inject/raw/refs/heads/main/data_backup1.zip",
             "vaibhav_key": ""
         }
     ]
