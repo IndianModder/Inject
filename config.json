@@ -15,8 +15,8 @@
     "com.crunchyroll.crunchyroid": [
         {
             "name": "Server 1 - Premium",
-            "download_url": "https://github.com/IndianModder/Inject/raw/refs/heads/main/vaibhav.encrypt",
-            "vaibhav_key": "1234"
+            "download_url": "https://github.com/IndianModder/Inject/raw/refs/heads/main/vaibhav.zip",
+            "vaibhav_key": ""
         },
         {
             "name": "Server 2 - Normal",
@@ -25,8 +25,8 @@
         },
         {
             "name": "Server 3 - Alternative",
-            "download_url": "https://github.com/IndianModder/Inject/raw/refs/heads/main/data_backup1.zip",
-            "vaibhav_key": ""
+            "download_url": "https://github.com/IndianModder/Inject/raw/refs/heads/main/vaibhav.encrypt",
+            "vaibhav_key": "1234"
         }
     ]
 }
